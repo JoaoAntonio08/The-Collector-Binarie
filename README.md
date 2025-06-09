@@ -49,7 +49,7 @@ O projeto está em constante evolução. Fique à vontade para contribuir, suger
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a [coloque sua licença aqui]. Consulte o arquivo `LICENSE` para mais detalhes.
+Este projeto está licenciado sob a MIT. Consulte o arquivo `LICENSE` para mais detalhes.
 
 ---
 
