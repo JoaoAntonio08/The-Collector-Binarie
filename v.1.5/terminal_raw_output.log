@@ -1,0 +1,4 @@
+2025-06-07 21:55:25,607 [INFO] Logging configurado.
+2025-06-07 21:55:25,607 [INFO] Inicializando Terminal v7 (Logging Corrigido)
+2025-06-07 21:55:25,674 [DEBUG] Recebido readyReadStandardOutput
+2025-06-07 21:55:25,674 [DEBUG] RAW STDOUT: 'Microsoft Windows [vers�o 10.0.26100.4202]\r\n(c) Microsoft Corporation. Todos os direitos reservados.\r\n\r\nC:\\The Collector Binarie>'
