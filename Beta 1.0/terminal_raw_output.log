@@ -1,0 +1,10 @@
+2025-06-04 16:22:13,301 [INFO] Logging configurado.
+2025-06-04 16:22:13,301 [INFO] Inicializando Terminal v7 (Logging Corrigido)
+2025-06-04 16:22:13,350 [DEBUG] Recebido readyReadStandardOutput
+2025-06-04 16:22:13,350 [DEBUG] RAW STDOUT: 'Microsoft Windows [vers�o 10.0.26100.4202]\r\n(c) Microsoft Corporation. Todos os direitos reservados.\r\n\r\nC:\\The Collector Binarie>'
+2025-06-04 16:22:20,840 [INFO] Fechando janela do terminal
+2025-06-04 16:22:20,840 [DEBUG] Matando processo do terminal...
+2025-06-04 16:22:20,844 [INFO] Processo do terminal finalizado. Código: 62097, Status: 1
+2025-06-04 16:22:20,845 [DEBUG] Adicionando prompt ao final
+2025-06-04 16:22:20,845 [DEBUG] Processo do terminal finalizado.
+2025-06-04 16:22:22,495 [INFO] Fechando janela do terminal
