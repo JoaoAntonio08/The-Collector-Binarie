@@ -1,4 +1,72 @@
-# 🧠 The Collector Binarie
+# 🧠 The Collector Binarie - en
+
+> **A Journey Through Binary Code**
+
+---
+
+## ✨ Overview
+
+**The Collector Binarie** is an ambitious project that aims to demystify and simplify interaction with binary code. Developed in **Python** and using the **PyQt5** library for its interface, the tool offers an integrated environment for exploring, interpreting, and executing binary code in an intuitive way.
+
+---
+
+## 🎯 Purpose
+
+The main goal of The Collector Binarie is to serve as both an educational and development tool, enabling users to deepen their knowledge in binary computing and low-level programming.
+
+---
+
+## ⚙️ Main Features
+
+- **🧩 Binary Code Interpretation:**  
+  Convert and visualize binary sequences in readable formats, making it easier to understand how computers process information.
+
+- **🚀 Script Execution:**  
+  Run Python scripts that interact with the binary environment, allowing you to test and debug your own implementations.
+
+- **📝 Code Editing:**  
+  Integrated code editor with syntax highlighting to facilitate writing and modifying scripts.
+
+- **📁 File Management:**  
+  File explorer to organize and access your projects and resources.
+
+- **💻 Integrated Terminal:**  
+  Terminal for direct interaction with the system and command execution.
+
+---
+
+## 📈 Project Evolution
+
+The Collector Binarie has gone through several development phases, each adding new layers of functionality and refinement. The project started as a simple prototype and evolved into a more robust tool, always seeking to provide a complete and accessible experience.
+
+---
+
+## 🚧 Under Development
+
+The project is constantly evolving. Feel free to contribute, suggest improvements, or report issues!
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+---
+
+## 🙋‍♂️ Contributing
+
+Contributions are very welcome! Feel free to open issues or pull requests.
+
+---
+
+## 📞 Contact
+
+- Author: [JoaoAntonio08](https://github.com/JoaoAntonio08)
+- Email: ja.abiffi08@gmail.com
+
+---
+
+# 🧠 The Collector Binarie - pt/br
 
 > **Uma Jornada Através do Código Binário**
 
