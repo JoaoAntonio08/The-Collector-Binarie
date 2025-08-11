@@ -62,7 +62,7 @@ Contributions are very welcome! Feel free to open issues or pull requests.
 ## 📞 Contact
 
 - Author: [JoaoAntonio08](https://github.com/JoaoAntonio08)
-- Email: ja.abiffi08@gmail.com
+- Email: ja.abiffi@gmail.com
 
 ---
 
